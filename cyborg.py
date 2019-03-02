@@ -1,3 +1,4 @@
+#comment
 def isCode(cmd) :
     for s in cmd :
         #print(s)
